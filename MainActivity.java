@@ -1,3 +1,5 @@
+//과제 제출입니다
+
 package com.example.googlemaptest;
 
 import android.app.ActivityGroup;
